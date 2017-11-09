@@ -1,0 +1,11 @@
+[
+  {
+    "path": "/hello",
+    "name": "hello",
+    "children": [
+      {
+        "path": "/hello/world"
+      }
+    ]
+  }
+]
